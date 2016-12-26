@@ -95,7 +95,7 @@
   <gap:splash src="res/screen/windows/SplashScreenPhone.scale-240.png" gap:platform="winphone"/>
   
   	<preference name="SplashScreen" value="screen" />
-	<preference name="SplashScreenDelay" value="5000" />
+	<preference name="SplashScreenDelay" value="6000" />
   
   <access origin="*"/>
   <plugin name="cordova-plugin-whitelist" version="1"/>
